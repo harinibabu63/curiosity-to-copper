@@ -5,4 +5,5 @@ This blog is a personal reflection on my journey into PCB and hardware design, f
 
 I share the struggles, doubts, learning moments, and projects that shaped my path toward becoming a hardware design engineer.
 
-Read the full blog here: [Curiosity to Copper](https://hashnode.com/@harinibabu)
+Read the full blog here: [Curiosity to Copper](https://hashnode.com/@[harinibabu)
+[(https://curiositytocopper.hashnode.dev/my-journey-into-pcb-and-hardware-design?utm_source=hashnode&utm_medium=feed)]
